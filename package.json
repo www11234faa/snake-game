@@ -1,0 +1,13 @@
+{
+  "name": "filter-numbers-demo",
+  "version": "1.0.0",
+  "description": "Node.js 数字筛选示例",
+  "main": "filterNumbers.js",
+  "scripts": {
+    "start": "node filterNumbers.js",
+    "test": "node filterNumbers.js"
+  },
+  "keywords": ["nodejs", "filter", "numbers"],
+  "author": "AI助手",
+  "license": "MIT"
+}
